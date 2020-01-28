@@ -1,3 +1,13 @@
+def #prime?()
+  puts 1,2,3,4,5
+  returns prime integer
+  end 
+  
+end
+
+Benchmark.measure
+end
+
 # Implementing Prime
 
 ## Objectives
