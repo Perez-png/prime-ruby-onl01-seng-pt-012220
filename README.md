@@ -1,4 +1,11 @@
-def #prime?()
+def Benchmark
+benchmark=prime_integer
+  puts [1,3,5]
+  end
+end
+
+
+  def #prime?()
   puts 1,2,3,4,5
   returns prime integer
   end 
